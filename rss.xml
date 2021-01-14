@@ -36,7 +36,7 @@
                         <h1>Evgenii Matveev</h1>
                         <h2>A young developer from Russia.</h2>
                         <figure>
-                            <img src="https://e7.pngegg.com/pngimages/188/424/png-clipart-software-developer-computer-servers-programmer-web-developer-computer-software-others-miscellaneous-face.png">
+                            <img src="./images/developer.png">
                         </figure>
                         <menu>
                             <a href="https://lalaveine.github.io/#work">Work</a>
@@ -119,7 +119,7 @@
 
           <div class="about__photo-container">
             <!-- Add a nice photo of yourself -->
-            <img class="about__photo" src="./images/developer.jpg" alt="" />
+            <img class="about__photo" src="./images/developer.png" alt="" />
           </div>
         </div>
       </div>
