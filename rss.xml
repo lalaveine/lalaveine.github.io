@@ -35,9 +35,9 @@
                     <header>
                         <h1>Evgenii Matveev</h1>
                         <h2>A young developer from Russia.</h2>
-                        <figure>
+                        <!-- <figure>
                             <img src="https://lalaveine.github.io/images/developer.png">
-                        </figure>
+                        </figure> -->
                         <menu>
                             <a href="https://lalaveine.github.io/#work">Work</a>
                             <a href="https://lalaveine.github.io/#clients">Clients</a>
